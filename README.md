@@ -18,4 +18,3 @@ A collection of notes, examples, and resources to learn Kubernetes step by step 
 ---
 
 Thanks for visiting!
-```

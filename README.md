@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Muthukumar Subramaniam 👋
 
 Welcome to my GitHub profile. I'm a Linux SME currently focusing on my open source projects, including automations for Linux VM provisioning and Kubernetes cluster deployment for lab environments, who builds automation and tooling for Linux-based infrastructure.

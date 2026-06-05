@@ -6,6 +6,9 @@ Welcome to my GitHub profile. I'm a Linux SME currently focusing on my open sour
 
 ## 📂 My Open Source Projects
 
+### [🐧 tux2lab](https://github.com/Muthukumar-Subramaniam/tux2lab)
+Transform your Linux workstation into a powerful, automated virtual datacenter — deploy, break, and rebuild VMs effortlessly. tux2lab automates provisioning, manages the complete VM lifecycle, and provides a flexible environment for learning, testing, and experimenting with Linux-based technologies.
+
 ### [🚀 install-k8s-on-linux](https://github.com/Muthukumar-Subramaniam/install-k8s-on-linux)
 Ansible playbook for kubeadm-based Kubernetes cluster installation on Linux (Red Hat, Debian, and SUSE based distributions), supporting both single control plane and HA control plane setups.
 
